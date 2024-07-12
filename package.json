@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@primevue/themes": "^4.0.0",
     "pinia": "^2.1.7",
+    "primevue": "^4.0.0",
     "sass": "^1.71.0",
     "sass-loader": "^14.1.0",
     "unplugin-auto-import": "^0.17.5",
